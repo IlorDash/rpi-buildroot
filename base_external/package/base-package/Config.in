@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_BASE_PACKAGE
+	bool "BASE_PACKAGE"
+	help
+	  Example of base pakcage
