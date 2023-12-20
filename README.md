@@ -1,2 +1,2 @@
 # rpi-buildroot
-Buildroot for RaspberryPi4 projects
+Buildroot for Raspberry Pi 4 projects
